@@ -13,7 +13,7 @@ function setup(){
 
 // Movendo o fundo 
 
-
+// Teste
 
 
 //Criando menino que corre 
